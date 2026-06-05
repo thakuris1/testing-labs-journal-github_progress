@@ -1,5 +1,5 @@
 # CASE-2 — Location Tracking for Workplace Safety
-
+Location tracking can help improve safety, especially for delivery drivers wroking in busy areas. It can also help compaines manage routes better and reduce risks.However, tracking employees all the time can fell like an invasion of privacy,especially if workers do not fully understand how their data is being used.
 ## Context
 
 CargoMove Logistics manages a large fleet of delivery drivers across London. After several minor safety incidents, management introduced a smartphone‑based location‑tracking app to monitor driver speed, stops, breaks, and routes. The stated purpose is to improve safety and reduce insurance costs.
