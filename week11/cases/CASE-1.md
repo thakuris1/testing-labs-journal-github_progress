@@ -1,5 +1,5 @@
 # CASE-1 — AI Hiring System & Indirect Discrimination
-
+AI hiring systems can be helpful because they save time and make the recruitment process faster. However, it is not always fair to fully rely on them. If the system is trained on past data that aleardy includes bias, it may contiune to treat some candidates unfairly, such as older applicants or those from certain universities.This kind of indirectt discrimination can happen without the company even realizing it.
 ## Context
 
 BrightHire Ltd., a mid‑sized UK software consultancy, has deployed an AI‑based résumé‑screening system to shortlist candidates for developer roles. The system was trained on 10 years of historical hiring data collected internally. Over the last three recruitment cycles, HR staff noticed that applicants from certain universities and older applicants (aged 45+) were disproportionately ranked lower by the system.
