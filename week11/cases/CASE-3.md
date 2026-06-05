@@ -1,5 +1,5 @@
 # CASE-3 — Smart Home Device Incident & Data Access
-
+Smart home devices make life easier, but they balso act as a digital window into our home. while you buy the hardware these compaines often offset low costs by collecting your behavioral data, habits, and preferences to use for advertising or to train their artifical intelligence.
 ## Context
 
 HomeSphere, a smart‑home manufacturer, sells voice‑activated devices that process audio locally and only upload recordings to the cloud when a wake word is detected. 
