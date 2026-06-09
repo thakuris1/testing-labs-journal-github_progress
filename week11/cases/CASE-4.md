@@ -1,5 +1,5 @@
 # CASE-4 — Autonomous Warehouse Robots & Safety Risks
-
+In this situation, even though no one was injured, the incident should not be taken lightly. A robot coming within one metre of a human worker clearly shows that there is a serious risk. The fact that this is the second malfunction in two months makes it more concering, as it suggests a pattern rather than a one-time issue. One of the problem is thatr the robots are skiping scheduled maintenance checks during busy hours.
 ## Context
 
 MegaStore operates a large automated warehouse using autonomous mobile robots (AMRs) that navigate aisles, pick items, and transport goods. Recently, a near‑miss incident occurred when an AMR malfunctioned, accelerating unexpectedly and stopping within one metre of a human worker. No one was harmed, but the safety officer filed a report noting that this was the third malfunction in two months.
